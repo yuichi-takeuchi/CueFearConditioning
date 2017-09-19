@@ -35,7 +35,7 @@ Cell 3, 4
 We use [SemVer](http://semver.org/) for versioning.
 
 ## Releases
-* Ver 1.0.0, 017/09/19: The first release.
+* Ver 1.0.0, 2017/09/19: The first release.
 * Pre-release, 2017/09/19
 
 ## Authors
