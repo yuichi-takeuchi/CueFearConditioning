@@ -1,5 +1,5 @@
 # CueFearConditioning
-Matlab code for auditory cue-dependent fear conditioning with for example footshock stimuli. By default, this code gives 7500 and 2500 Hz pure tones and only 7500 Hz tones are associated with aversive stimuli like footshock. Information of practical footshock circuits is available here ().
+Matlab code for auditory cue-dependent fear conditioning with for example footshock stimuli. By default, this code gives 7500 and 2500 Hz pure tones and only 7500 Hz tones are associated with aversive stimuli like footshock. Information of a practical footshock circuit is available here (https://figshare.com/s/7ca1d36bb3583220a663).
 
 ## Getting Started
 
