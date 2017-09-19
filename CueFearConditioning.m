@@ -11,7 +11,7 @@
 % Lisence:
 % MIT License
 %
-%% Day 1: context A
+%% Day 1: habituation
 InterSoundIntervals = 20 + floor(100*rand(1,10));
 for i = 1:120
    fprintf('habituation: %d s\n', i) 
@@ -31,7 +31,7 @@ end
 disp('done')
 clear i InterSoundIntervals playerObj
 
-%% Day 2: context B
+%% Day 2: conditioning
 InterSoundIntervals = 100 + floor(20*rand(1,10));
 binaryOn = [1 0 0 0];
 binaryOff = [0 0 0 0];
@@ -62,7 +62,7 @@ outputSingleScan(s, [0 0 0 0]);
 disp('done')
 clear i InterSoundIntervals playerObj d s binaryOn binaryOff
 
-%% Day 3
+%% Day 3: test
 ToneHz = 7500; % 7500 or 2500
 InterSoundIntervals = 20 + floor(100*rand(1,5));
 for i = 1:120
@@ -79,7 +79,7 @@ end
 disp('done')
 clear i InterSoundIntervals playerObj ToneHz
 
-%% Day 4: Context C
+%% Day 4: test
 ToneHz = 7500; % 7500 or 2500
 InterSoundIntervals = 20 + floor(100*rand(1,20));
 for i = 1:120
