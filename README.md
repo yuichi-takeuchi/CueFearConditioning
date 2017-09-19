@@ -47,5 +47,10 @@ We use [SemVer](http://semver.org/) for versioning.
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-* The Uehara Memorial Foundation
-* Department of Physiology, University of Szeged, Hungary
+* Rodrigo Alejandro Sierra, PhD
+* Lizeth Pedraza, MSc
+
+## References
+* Bundel DD, Zussy C, Espallergues J, Gerfen CR, Girault JA, Valjent E (2016) Dopamine D2 receptors gate generalization of conditioned threat responses through mTORC1 signaling in the extended amygdala. Mol Psychiatry 21:1545-1553.
+
+
