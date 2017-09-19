@@ -17,15 +17,19 @@ The code has been tested with a USB-6008, Matlab ver 8.6 (R2015b), and Data Acqu
 
 ### How to use
 * Day 1: adoptation
+
 Cell 1.
 
 * Day 2: conditioning
+
 Cell 2.
 
 * Day 3: evaluation
+
 Cell 3.
 
 * Day4: evaluation
+
 Cell 4.
 
 ## DOI
