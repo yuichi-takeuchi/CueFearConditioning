@@ -3,14 +3,10 @@
 % Latest verstion is available in Github
 % (https://github.com/yuichi-takeuchi/CueFearConditioning)
 %
-% Author:
-% Yuichi Takeuchi PhD
-% Department of Physiology, University of Szeged, Hungary
-% Email: yuichi-takeuchi@umin.net
-%
 % Lisence:
 % MIT License
 %
+
 %% Day 1: habituation
 InterSoundIntervals = 20 + floor(100*rand(1,10));
 for i = 1:120
