@@ -31,7 +31,7 @@ Cell 2.
 Cell 3, 4
 
 ## DOI
-
+[![DOI](https://zenodo.org/badge/104112493.svg)](https://zenodo.org/badge/latestdoi/104112493)
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning.
