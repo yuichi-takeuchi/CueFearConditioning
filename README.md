@@ -43,7 +43,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
 * Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: takeuchi.yuichi@med.u-szeged.hu
+* E-mail: yuichi-takeuchi@umin.net
 
 ## License
 This project is licensed under the MIT License.
@@ -54,5 +54,3 @@ This project is licensed under the MIT License.
 
 ## References
 * Bundel DD, Zussy C, Espallergues J, Gerfen CR, Girault JA, Valjent E (2016) Dopamine D2 receptors gate generalization of conditioned threat responses through mTORC1 signaling in the extended amygdala. Mol Psychiatry 21:1545-1553.
-
-
